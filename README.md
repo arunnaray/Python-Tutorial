@@ -6,3 +6,6 @@ Cheers, <br>
 Arun Narayanan (arunnaray).
 
 <img src = "whyp.jpeg" >
+
+Help:
+If you are not able to read any notebooks above, copy paste the link to notebook here. https://nbviewer.jupyter.org/
