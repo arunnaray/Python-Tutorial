@@ -4,3 +4,5 @@ This notebook is all about Python language, form the basic terminologies, syntax
 Happy reading! <br>
 Cheers, <br>
 Arun Narayanan (arunnaray).
+
+<img src = "whyp.jpeg" >
